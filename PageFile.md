@@ -1,5 +1,4 @@
-## Pagefile Config
-
+## Pagefile Configuration
 
 To enhance system stability, especially if you're operating with limited RAM (such as 16 GB), it's advisable to configure the page file system for the drive where you're running Fallout Anomaly. Follow these steps:
 
@@ -11,7 +10,7 @@ To enhance system stability, especially if you're operating with limited RAM (su
 6. Under the "Virtual memory" section, click on the "Change" button. This will allow you to adjust the virtual memory settings.
 7. Uncheck the box that says "Automatically manage paging file size for all drives" if it's checked.
 8. Select the drive where Fallout Anomaly is installed.
-9. Choose the option "Custom size" and specify the Initial size (MB) and Maximum size (MB) for the page file. The recommended size is typically 1.5 times your physical RAM size, but with only 16 GB of RAM, setting it to a fixed size around 20 GB (20480 MB) might be sufficient for stability. If you have 32gb you can set this to 40,000MB.
+9. Choose the option "Custom size" and specify the Initial size (MB) and Maximum size (MB) for the page file. The recommended size is typically 1.5 times your physical RAM size, but with only 16 GB of RAM, setting it to a fixed size around 20 GB (20480 MB) might be sufficient for stability. If you have 32 GB, you can set this to 40,000 MB.
 10. Click on the "Set" button, then click "OK" to confirm the changes.
 11. Restart your computer for the changes to take effect.
 
